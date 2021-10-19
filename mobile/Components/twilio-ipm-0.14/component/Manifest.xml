@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="twilio-ipm">
+  <name>Twilio IP Messaging</name>
+  <publisher>Twilio</publisher>
+  <publisher-url>http://twilio.com</publisher-url>
+  <version>0.14</version>
+  <summary>Twilio IP Messaging makes it easy for you to add chat features into your mobile applications without building or scaling a real-time backend.</summary>
+  <screenshots>
+    <img src="screenshots/twilio-ipm.jpg" title="twilio-ipm" />
+  </screenshots>
+  <samples>
+    <sample id="TwilioIPMessagingSampleiOS">
+      <name>iOS Sample</name>
+      <summary>iOS Sample</summary>
+    </sample>
+    <sample id="TwilioIPMessagingSampleAndroid">
+      <name>android Sample</name>
+      <summary>android Sample</summary>
+    </sample>
+  </samples>
+</component>

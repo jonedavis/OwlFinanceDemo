@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="twilio-client">
+  <name>Twilio Client</name>
+  <publisher>Twilio</publisher>
+  <publisher-url>http://twilio.com</publisher-url>
+  <version>1.2.9</version>
+  <summary>Official Twilio Client SDK for Xamarin. Twilio Client makes it easy for you to add VoIP features to your apps.</summary>
+  <screenshots>
+    <img src="screenshots/twilio-client-placed.png" title="twilio-client-placed" />
+  </screenshots>
+  <samples>
+    <sample id="TwilioClientTest.iOS">
+      <name>iOS Sample</name>
+      <summary>iOS Sample</summary>
+    </sample>
+    <sample id="TwilioClientTest.iOS.Unified">
+      <name>iOS Unified Sample</name>
+      <summary>iOS Unified Sample</summary>
+    </sample>
+    <sample id="TwilioClientTest.Android">
+      <name>Android Sample</name>
+      <summary>Android Sample</summary>
+    </sample>
+  </samples>
+</component>
